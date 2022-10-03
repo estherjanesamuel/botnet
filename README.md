@@ -24,8 +24,8 @@ Telegram Bot written in .NET
 ```powershell
 PS D:\project\github>cd .\botnet\
 ```
-3. Open `botnet` directory in Visual Studio Code. Type `code .` on your terminal.
-4. Open VSCode terminal with `ctrl + j` and run :  
+3. Type `code .` on your terminal to open `botnet` directory in Visual Studio Code.
+4. Open terminal with `ctrl + j` in VSCode and run :  
 ```powershell
 PS D:\project\github\botnet>dotnet build
 ```
